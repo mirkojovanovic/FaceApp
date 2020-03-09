@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">FaceApp</string>
+    <string name="intro_start_cta">Let\'s start!</string>
+    <string name="intro_login_cta">Already have an account?</string>
+    <string name="intro_login_button_cta">Log in</string>
+    <string name="step_one_fragment_headline">Face lifting made simple</string>
+    <string name="step_one_fragment_description">Few easy facial exercises you can do every day.</string>
+    <string name="step_two_fragment_headline">Learn in just 1 day!</string>
+    <string name="step_two_fragment_description">You can actually feel it tightening in your face.</string>
+    <string name="step_three_fragment_headline">Doctor approved!</string>
+    <string name="step_three_fragment_description">Don\'t waste money on expensive skin care products that do not work. Try first 5 exercises for free!</string>
+    <string name="or">or</string>
+    <string name="intro_terms_cta">By continuing, you agree to our</string>
+    <string name="intro_terms_button_cta"><![CDATA[Terms & Services]]></string>
+    <string name="email_signup_button_text">Sign up with email</string>
+    <string name="facebook_signup_button_text">Sign up with facebook</string>
 </resources>
